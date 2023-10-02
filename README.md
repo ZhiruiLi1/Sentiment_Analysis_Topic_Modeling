@@ -1,0 +1,1 @@
+This repository contains the sophisticated analysis of tweets from the Russia-Ukraine War (February 24 to May 1, 2022), utilizing Bi-directional LSTM for sentiment analysis and Latent Dirichlet Allocation for topic modeling.
